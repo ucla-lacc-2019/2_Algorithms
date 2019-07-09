@@ -8,10 +8,8 @@ def speedyTrip(places):
     # places is a list of locations
     # the first place is places[0]
     # places[0].name : name of the first place
-    # places[0].x
-    # x_location
-    # places[0].y
-    # y_location
+    # places[0].x : x_location
+    # places[0].y : y_location
     # get_distance(places[0], places[1]) returns 
     # the distance between places[0] and places[1]
     
